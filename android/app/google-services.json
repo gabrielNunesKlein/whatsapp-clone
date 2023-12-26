@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557650095169",
+    "project_id": "whatsweb-b1c01",
+    "storage_bucket": "whatsweb-b1c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557650095169:android:ddc5d1a6c6c3b862d56ac0",
+        "android_client_info": {
+          "package_name": "com.example.whatssap_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ0OiVcTlIz-k0v1VV8NULijritjpRYgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
